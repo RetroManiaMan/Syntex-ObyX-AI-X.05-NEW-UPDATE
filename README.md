@@ -22,7 +22,7 @@ Syntex ObyX AI X.05 is the all-new and improved AI assistant, consisting of a bu
 
 🗣️🎙️ **Updated Voice Chat** – Works better that ever!
 
-🗄️ **Updated File/Image Uploader** – Now you can upload ANY kind of file or image! Whether PDF or JPG! Conditions apply! 🙃🤪
+🗄️ **Updated File/Image Uploader** – Now you can upload ANY file or image! Whether PDF or JPG! Conditions apply! 🙃🤪
 
 💬 **Fixed the Persona Creator** – Now, when you create a Persona (chat model), ObyX will actually make it, and it will work!
 
@@ -82,8 +82,8 @@ Expect rapid iteration and feature expansion.
 
 🧑‍💻 **Creator**
 
-Built by Systematic Technologies, creators of Syntex and LogiQ.
+Built by Systematic Technologies, creators of Syntex and LogiQ AI.
 
 📄 **License**
 
-MIT License — free to use, modify, and build upon.
+MIT License — free to use, of course, MOST ***NOT*** BE MODIFIED ***OR*** built upon.
